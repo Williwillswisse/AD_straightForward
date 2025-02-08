@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="94">
+    <author>Willi Willswissen</author>
+	<contributors>AutoDrive Team</contributors>
+    <version>1.0.0.0</version>
+    <title> 
+        <en>AutoDrive-Straight Forward</en>
+        <de>AutoDrive-Linie Vorwärts</de>
+    </title>
+    <description>
+        <en> <![CDATA[
+
+AD Layout for Straight Forward.
+]]>
+        </en>
+        <de> <![CDATA[
+
+AD Layout für Linie Vorwärts.
+]]>
+        </de>
+    </description>
+    
+    <l10n>
+        <text name="storeItem_straightLine50"> <en>AutoDrive-Straight Forward 50m</en> <de>AutoDrive-Linie Vorwärts 50m</de> </text>
+        <text name="storeItem_straightLine100"> <en>AutoDrive-Straight Forward 100m</en> <de>AutoDrive-Linie Vorwärts 100m</de> </text>
+        <text name="storeItem_straightLine200"> <en>AutoDrive-Straight Forward 200m</en> <de>AutoDrive-Linie Vorwärts 200m</de> </text>
+    </l10n>
+
+    <multiplayer supported="true"/>
+    <iconFilename>icon_AutoDrive_straightForward.png</iconFilename>
+
+    <storeItems>
+		<storeItem xmlFilename="straightForward-50m.xml"/>
+		<storeItem xmlFilename="straightForward-100m.xml"/>
+		<storeItem xmlFilename="straightForward-200m.xml"/>
+    </storeItems>
+</modDesc>
