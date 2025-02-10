@@ -1,7 +1,7 @@
 # FS25_AutoDrive_straightForward
 FS25 version of the FS25_AutoDrive_straightForward mod
 
-### Latest Release: 1.0.0.0
+### Latest Release: 1.0.0.1
 ![GitHub all releases](https://img.shields.io/github/downloads/Williwillswisse/AD_straightForward/total?label=Downloads&style=plastic)
 
 Direct Download: https://github.com/Williwillswisse/AD_straightForward/releases/latest/download/FS25_AutoDrive_straightForward.zip
