@@ -21,9 +21,9 @@ AD Layout für Linie Vorwärts.
     </description>
     
     <l10n>
-        <text name="storeItem_straightLine50"> <en>AutoDrive-Straight Forward 50m</en> <de>AutoDrive-Linie Vorwärts 50m</de> </text>
-        <text name="storeItem_straightLine100"> <en>AutoDrive-Straight Forward 100m</en> <de>AutoDrive-Linie Vorwärts 100m</de> </text>
-        <text name="storeItem_straightLine200"> <en>AutoDrive-Straight Forward 200m</en> <de>AutoDrive-Linie Vorwärts 200m</de> </text>
+        <text name="storeItem_straightForward-50"> <en>AutoDrive-Straight Forward 50m</en> <de>AutoDrive-Linie Vorwärts 50m</de> </text>
+        <text name="storeItem_straightForward-100"> <en>AutoDrive-Straight Forward 100m</en> <de>AutoDrive-Linie Vorwärts 100m</de> </text>
+        <text name="storeItem_straightForward-200"> <en>AutoDrive-Straight Forward 200m</en> <de>AutoDrive-Linie Vorwärts 200m</de> </text>
     </l10n>
 
     <multiplayer supported="true"/>
